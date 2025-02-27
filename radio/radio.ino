@@ -9,7 +9,7 @@ const int PIN_SW = 14;  // Switch (SW)
 const int TEA5767_ADDR = 0x60;
 
 // FM Frequency Range
-const float FM_MIN = 88.0;
+const float FM_MIN = 76.1;
 const float FM_MAX = 108.0;
 
 // State Variables
